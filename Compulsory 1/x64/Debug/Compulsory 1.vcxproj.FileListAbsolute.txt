@@ -1,1 +1,2 @@
 C:\Algorithims and datastructures\Compulsory 1\x64\Debug\Compulsory 1.exe
+C:\Algorithims and datastructures\Github\Algoritmer-Datastruk\Compulsory 1\x64\Debug\Compulsory 1.exe

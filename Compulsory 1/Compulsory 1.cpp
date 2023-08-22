@@ -29,7 +29,7 @@ int fibfunc(int n)
 	}
 	else if (n == 1)
 	{
-		return 1;
+		return FIBNUMB;
 	}
 
 	//here we calculate the numbers so that for each run of the function the number next number in the Fibonacci sequence wil be the two before it added together 
@@ -47,7 +47,7 @@ int main()
 {
 	//here we give the number of times we want the Recursive functions and the amount of our Fibonacci sequence
 	int n = 4;
-	int fnum = 11;
+	int fnum = 18;
 	//Here we print our results
     std::cout << "The recrsive function of "<< n<< " is " << RecursiveFunction(n) << std::endl;
 	std::cout << " the Fibonacci sequence of " << fnum << " is " << fibfunc(fnum) << std::endl;
